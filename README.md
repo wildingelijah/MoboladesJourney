@@ -12,13 +12,11 @@ The game is a first person single player game. It follows the story of a little 
 
 ## Files
 
-In order to access the files for this project please click "View on GitHub". 
+In order to access the file for this project please click "View on GitHub". 
 
-The board.cpp, project.cpp and board.h files contain all our C++ code that runs the game while the .obj files are our chess models that we load into the game through the code. The last file is a makefile that will compile all files together into an executable to run the game.
+The only file necessary is the executable which can be found within the .zip file.
 
-In order to run the game, download all the files and then navigate to folder in Terminal and enter "make" to compile and link all files into the single game executable. 
-
-It should be noted that all controls and information needed are printed out to the console.
+In order to run the game, download the .zip and uncompress it. Then execute the file that comes from the .zip folder. This is theo nly file needed however there are plenty more files that go into making the game such as C# scripts and asset files. If you would like to know more about them please feel free to ask me questions at: **elijahwilding@gmail.com**.
 
 ## Back
 

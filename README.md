@@ -16,7 +16,7 @@ In order to access the file for this project please click "View on GitHub".
 
 The only file necessary is the executable which can be found within the .zip file.
 
-In order to run the game, download the .zip and uncompress it. Then execute the file that comes from the .zip folder. This is the only file needed however there are plenty more files that go into making the game such as C# scripts and asset files. If you would like to know more about them please feel free to ask me questions at: **elijahwilding@gmail.com**.
+In order to run the game, download the .zip and uncompress it. Then execute the file that comes from the .zip folder. I recommend playing on 2560 x 1600 with low or medium Graphics Quality. This is the only file needed however there are plenty more files that go into making the game such as C# scripts and asset files. If you would like to know more about them please feel free to ask me questions at: **elijahwilding@gmail.com**.
 
 ## Back
 

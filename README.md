@@ -1,10 +1,10 @@
 # Introduction
 
-This project was designed in its entirety by myself using Unity. I coded the scripts for the game using  
+This project was designed in its entirety by myself. I coded the scripts for the game using C# while all other aspects of the game were created/developed within Unity. It should be noted that I did use free downloadable assets from the Unity store to help create the environment seen in the game.
 
 ## About The Project
 
-The game is a fully functioning two player chess game. It allows players to perform all correct movements usually found in chess rules. It has multiple features that enhance user experience nad playability. And we even added a little flare to make the game look fun and enjoyable! 
+The game is a first person single player game. It follows the story of a little boy named Mobolade who wants to become a professional soccer player. The game has 
 
 ## Pictures
 

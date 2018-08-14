@@ -1,6 +1,6 @@
 # Introduction
 
-This project was designed by myself and three other students (Zack Palantzas, Corey Szeto and Aleem Haq) using primarily C++. We also used Blender to create the models for the actual chess pieces. My primary responsibilites throughout this project were to code the logic of the pieces movements, to create a grid system for the pieces to function on and to create/modify the physical environment (colouring of pieces, lighting, etc) to enhance the game's overall look.
+This project was designed in its entirety by myself using Unity. I coded the scripts for the game using  
 
 ## About The Project
 

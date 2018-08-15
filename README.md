@@ -10,7 +10,7 @@ The game is a first person single player game. It follows the story of a little 
 
 <img align="center" width="320" height="200" hspace="20" src="https://user-images.githubusercontent.com/33875832/44124681-65d25050-9ffc-11e8-8bea-dc4a1154491c.png"><img align="center" width="320" height="200" hspace="20" src="https://user-images.githubusercontent.com/33875832/44124759-ce47e348-9ffc-11e8-80f5-a95e04e283b6.png">
 
-<img align="center" width="320" height="200" hspace="20" src=""><img align="center" width="320" height="200" hspace="20" src="">
+<img align="center" width="320" height="200" hspace="20" src="https://user-images.githubusercontent.com/33875832/44124779-e840344e-9ffc-11e8-9e2c-5334768e23c4.png"><img align="center" width="320" height="200" hspace="20" src="">
 
 
 ## Files
